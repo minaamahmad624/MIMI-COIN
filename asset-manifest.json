@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/MIMI-COIN/static/css/main.9a1389ed.css",
-    "main.js": "/MIMI-COIN/static/js/main.b187e270.js",
+    "main.js": "/MIMI-COIN/static/js/main.60255545.js",
     "static/js/453.8e9ebf8d.chunk.js": "/MIMI-COIN/static/js/453.8e9ebf8d.chunk.js",
     "static/media/logo.svg": "/MIMI-COIN/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/MIMI-COIN/index.html",
     "main.9a1389ed.css.map": "/MIMI-COIN/static/css/main.9a1389ed.css.map",
-    "main.b187e270.js.map": "/MIMI-COIN/static/js/main.b187e270.js.map",
+    "main.60255545.js.map": "/MIMI-COIN/static/js/main.60255545.js.map",
     "453.8e9ebf8d.chunk.js.map": "/MIMI-COIN/static/js/453.8e9ebf8d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a1389ed.css",
-    "static/js/main.b187e270.js"
+    "static/js/main.60255545.js"
   ]
 }
